@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://patrikhallen.com/sitemap-index.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://carolinahallen.se/sitemap-index.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights.onarc.cloud/sitemap-index.xml
