@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://enterpriseblueprint.se/sitemap-index.xml
